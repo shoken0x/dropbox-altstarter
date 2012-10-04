@@ -1,13 +1,11 @@
 #!/bin/sh
 
-dir=$HOME/DropboxAlt
+HOME=$HOME/DropboxAlt
 
-if [ -e $dir ]; then
-  echo "$dir id found."
-else
-  mkdir -p $dir
+if [ ! -d $HOME ]; then
+  mkdir -p $HOME
 fi
 
-HOME=$HOME/DropboxAlt
 /Applications/Dropbox.app/Contents/MacOS/Dropbox &
+exit 0
 

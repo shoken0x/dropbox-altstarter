@@ -30,11 +30,11 @@
 	<key>CFBundleIconFile</key>
 	<string>AutomatorApplet</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.apple.automator.DropboxAltStartar</string>
+	<string>com.apple.automator.DropboxAltStarter</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
-	<string>DropboxAltStartar</string>
+	<string>DropboxAltStarter</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
