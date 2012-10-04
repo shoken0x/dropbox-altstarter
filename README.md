@@ -1,7 +1,7 @@
 Start the other Dropbox for Max OS X
 ====
 
-1. git clone or download zip
+1. git clone or download as zip
 
 2. Double click DropboxAltStarter.app
 
