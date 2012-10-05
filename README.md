@@ -1,4 +1,4 @@
-Start 2nd Dropbox after 1st in Max OS X
+Start 2nd Dropbox after 1st in Mac OS X
 ====
 
 In 2nd Dropbox, you can use different account from 1st one.
