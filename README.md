@@ -1,5 +1,7 @@
-Start the other Dropbox for Max OS X
+Start 2nd Dropbox after 1st in Max OS X
 ====
+
+![screenshot](http://cdn-ak.f.st-hatena.com/images/fotolife/s/sfujisak/20121005/20121005003343.png)
 
 1. git clone or download as zip
 
